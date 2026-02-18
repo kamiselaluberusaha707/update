@@ -4,4 +4,5 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: sitemap.xml
+
+https://kamiselaluberusaha707.github.io/update/Sitemap: sitemap.xml
